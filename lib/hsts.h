@@ -65,6 +65,7 @@ CURLcode Curl_hsts_loadcb(struct Curl_easy *data,
 CURLcode Curl_hsts_loadfiles(struct Curl_easy *data);
 
 bool Curl_hsts_applies(struct hsts *h, const struct Curl_peer *dest);
+CURLcode Curl_hsts_copy(struct hsts *dst, struct hsts *src);
 
 #else
 #define Curl_hsts_cleanup(x)

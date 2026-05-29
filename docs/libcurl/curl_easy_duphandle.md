@@ -42,7 +42,10 @@ SSL sessions and no cookies. It also does not inherit any share object states
 or options (created as if CURLOPT_SHARE(3) was set to NULL).
 
 If the source handle has HSTS or alt-svc enabled, the duplicate gets data read
-data from the main filename to populate the cache.
+from the main filename to populate the cache. In addition, any
+Strict-Transport-Security entries that were learned at runtime (from response
+headers) are copied into the duplicate so it enforces the same HSTS policy as
+the source handle.
 
 In multi-threaded programs, this function must be called in a synchronous way,
 the input handle may not be in use when cloned.

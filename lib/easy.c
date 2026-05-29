@@ -1052,6 +1052,9 @@ CURL *curl_easy_duphandle(CURL *curl)
       (void)Curl_hsts_loadfile(outcurl,
                                outcurl->hsts, outcurl->set.str[STRING_HSTS]);
     (void)Curl_hsts_loadcb(outcurl, outcurl->hsts);
+    /* copy runtime-learned entries (from Strict-Transport-Security headers) */
+    if(Curl_hsts_copy(outcurl->hsts, data->hsts))
+      goto fail;
   }
 #endif
 
