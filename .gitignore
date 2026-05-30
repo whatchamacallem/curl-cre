@@ -72,3 +72,5 @@ libstandaloneengine.a
 tests/string
 tests/config
 tests/ech-log/
+
+/cyber/build/

@@ -1,0 +1,3 @@
+- CONFIRMED [/home/t/curl/lib/easy.c](/home/t/curl/cyber/sweep/status/__home__t__curl__lib__easy.c.md)
+- attempted [/home/t/curl/lib/http_chunks.c](/home/t/curl/cyber/sweep/status/_home_t_curl_lib_http_chunks.c.md)
+- attempted [/home/t/curl/lib/urlapi.c](/home/t/curl-cre/cyber/sweep/status/_home_t_curl_lib_urlapi.c.md)

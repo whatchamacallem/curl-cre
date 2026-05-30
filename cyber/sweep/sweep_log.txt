@@ -1,0 +1,386 @@
+[sweep] Starting batch of 10 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/altsvc.c
+[sweep] /home/t/curl/lib/altsvc.c -> skip
+[sweep] processing /home/t/curl/lib/amigaos.c
+[sweep] /home/t/curl/lib/amigaos.c -> skip
+[sweep] processing /home/t/curl/lib/asyn-ares.c
+[sweep] /home/t/curl/lib/asyn-ares.c -> skip
+[sweep] processing /home/t/curl/lib/asyn-base.c
+[sweep] /home/t/curl/lib/asyn-base.c -> skip
+[sweep] processing /home/t/curl/lib/asyn-thrdd.c
+[sweep] /home/t/curl/lib/asyn-thrdd.c -> skip
+[sweep] processing /home/t/curl/lib/bufq.c
+[sweep] /home/t/curl/lib/bufq.c -> skip
+[sweep] processing /home/t/curl/lib/bufref.c
+[sweep] /home/t/curl/lib/bufref.c -> skip
+[sweep] processing /home/t/curl/lib/cf-dns.c
+[sweep] /home/t/curl/lib/cf-dns.c -> skip
+[sweep] processing /home/t/curl/lib/cf-h1-proxy.c
+[sweep] /home/t/curl/lib/cf-h1-proxy.c -> skip
+[sweep] processing /home/t/curl/lib/cf-h2-proxy.c
+[sweep] /home/t/curl/lib/cf-h2-proxy.c -> skip
+
+[sweep] Done. Processed=10  Total done=10  Confirmed=0  Remaining=164
+[sweep] Starting batch of 10 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/cf-haproxy.c
+[sweep] /home/t/curl/lib/cf-haproxy.c -> skip
+[sweep] processing /home/t/curl/lib/cf-https-connect.c
+[sweep] /home/t/curl/lib/cf-https-connect.c -> skip
+[sweep] processing /home/t/curl/lib/cf-ip-happy.c
+[sweep] /home/t/curl/lib/cf-ip-happy.c -> skip
+[sweep] processing /home/t/curl/lib/cf-socket.c
+[sweep] /home/t/curl/lib/cf-socket.c -> skip
+[sweep] processing /home/t/curl/lib/cfilters.c
+[sweep] /home/t/curl/lib/cfilters.c -> skip
+[sweep] processing /home/t/curl/lib/conncache.c
+[sweep] /home/t/curl/lib/conncache.c -> skip
+[sweep] processing /home/t/curl/lib/connect.c
+[sweep] /home/t/curl/lib/connect.c -> skip
+[sweep] processing /home/t/curl/lib/content_encoding.c
+[sweep] /home/t/curl/lib/content_encoding.c -> skip
+[sweep] processing /home/t/curl/lib/cookie.c
+[sweep] /home/t/curl/lib/cookie.c -> skip
+[sweep] processing /home/t/curl/lib/creds.c
+[sweep] /home/t/curl/lib/creds.c -> skip
+
+[sweep] Done. Processed=10  Total done=20  Confirmed=0  Remaining=154
+[sweep] Starting batch of 20 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/cshutdn.c
+[sweep] /home/t/curl/lib/cshutdn.c -> skip
+[sweep] processing /home/t/curl/lib/curl_addrinfo.c
+[sweep] /home/t/curl/lib/curl_addrinfo.c -> skip
+[sweep] processing /home/t/curl/lib/curl_endian.c
+[sweep] /home/t/curl/lib/curl_endian.c -> skip
+[sweep] processing /home/t/curl/lib/curl_fnmatch.c
+[sweep] /home/t/curl/lib/curl_fnmatch.c -> skip
+[sweep] processing /home/t/curl/lib/curl_fopen.c
+[sweep] /home/t/curl/lib/curl_fopen.c -> skip
+[sweep] processing /home/t/curl/lib/curl_get_line.c
+[sweep] /home/t/curl/lib/curl_get_line.c -> skip
+[sweep] processing /home/t/curl/lib/curl_gethostname.c
+[sweep] /home/t/curl/lib/curl_gethostname.c -> skip
+[sweep] processing /home/t/curl/lib/curl_gssapi.c
+[sweep] /home/t/curl/lib/curl_gssapi.c -> skip
+[sweep] processing /home/t/curl/lib/curl_memrchr.c
+[sweep] /home/t/curl/lib/curl_memrchr.c -> skip
+[sweep] processing /home/t/curl/lib/curl_ntlm_core.c
+[sweep] /home/t/curl/lib/curl_ntlm_core.c -> skip
+[sweep] processing /home/t/curl/lib/curl_range.c
+[sweep] /home/t/curl/lib/curl_range.c -> skip
+[sweep] processing /home/t/curl/lib/curl_sasl.c
+[sweep] /home/t/curl/lib/curl_sasl.c -> skip
+[sweep] processing /home/t/curl/lib/curl_sha512_256.c
+[sweep] /home/t/curl/lib/curl_sha512_256.c -> skip
+[sweep] processing /home/t/curl/lib/curl_share.c
+[sweep] /home/t/curl/lib/curl_share.c -> skip
+[sweep] processing /home/t/curl/lib/curl_sspi.c
+[sweep] /home/t/curl/lib/curl_sspi.c -> skip
+[sweep] processing /home/t/curl/lib/curl_threads.c
+[sweep] /home/t/curl/lib/curl_threads.c -> skip
+[sweep] processing /home/t/curl/lib/curl_trc.c
+[sweep] /home/t/curl/lib/curl_trc.c -> skip
+[sweep] processing /home/t/curl/lib/cw-out.c
+[sweep] /home/t/curl/lib/cw-out.c -> skip
+[sweep] processing /home/t/curl/lib/cw-pause.c
+[sweep] /home/t/curl/lib/cw-pause.c -> skip
+[sweep] processing /home/t/curl/lib/dict.c
+[sweep] /home/t/curl/lib/dict.c -> skip
+
+[sweep] Done. Processed=20  Total done=40  Confirmed=0  Remaining=134
+[sweep] Starting batch of 20 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/dllmain.c
+[sweep] /home/t/curl/lib/dllmain.c -> skip
+[sweep] processing /home/t/curl/lib/dnscache.c
+[sweep] /home/t/curl/lib/dnscache.c -> skip
+[sweep] processing /home/t/curl/lib/doh.c
+[sweep] /home/t/curl/lib/doh.c -> skip
+[sweep] processing /home/t/curl/lib/dynhds.c
+[sweep] /home/t/curl/lib/dynhds.c -> skip
+[sweep] processing /home/t/curl/lib/easy.c
+[sweep] /home/t/curl/lib/easy.c -> findings found, handing to tester
+[sweep]   running /home/t/curl/cyber/sweep/status/__home__t__curl__lib__easy.c_test_1.py
+[sweep]   *** CONFIRMED — saved to /home/t/curl/cyber/sweep/confirmed/__home__t__curl__lib__easy.c___home__t__curl__lib__easy.c_test_1.py ***
+[sweep] /home/t/curl/lib/easy.c -> done (confirmed=1)
+[sweep] processing /home/t/curl/lib/easygetopt.c
+[sweep] /home/t/curl/lib/easygetopt.c -> skip
+[sweep] processing /home/t/curl/lib/easyoptions.c
+[sweep] /home/t/curl/lib/easyoptions.c -> skip
+[sweep] processing /home/t/curl/lib/escape.c
+[sweep] /home/t/curl/lib/escape.c -> skip
+[sweep] processing /home/t/curl/lib/fake_addrinfo.c
+[sweep] /home/t/curl/lib/fake_addrinfo.c -> skip
+[sweep] processing /home/t/curl/lib/file.c
+[sweep] /home/t/curl/lib/file.c -> skip
+[sweep] processing /home/t/curl/lib/fileinfo.c
+[sweep] /home/t/curl/lib/fileinfo.c -> skip
+[sweep] processing /home/t/curl/lib/formdata.c
+[sweep] /home/t/curl/lib/formdata.c -> skip
+[sweep] processing /home/t/curl/lib/ftp.c
+[sweep] /home/t/curl/lib/ftp.c -> skip
+[sweep] processing /home/t/curl/lib/ftplistparser.c
+[sweep] /home/t/curl/lib/ftplistparser.c -> skip
+[sweep] processing /home/t/curl/lib/getenv.c
+[sweep] /home/t/curl/lib/getenv.c -> skip
+[sweep] processing /home/t/curl/lib/getinfo.c
+[sweep] /home/t/curl/lib/getinfo.c -> skip
+[sweep] processing /home/t/curl/lib/gopher.c
+[sweep] /home/t/curl/lib/gopher.c -> skip
+[sweep] processing /home/t/curl/lib/hash.c
+[sweep] /home/t/curl/lib/hash.c -> skip
+[sweep] processing /home/t/curl/lib/headers.c
+[sweep] /home/t/curl/lib/headers.c -> skip
+[sweep] processing /home/t/curl/lib/hmac.c
+[sweep] /home/t/curl/lib/hmac.c -> skip
+
+[sweep] Done. Processed=20  Total done=60  Confirmed=1  Remaining=114
+[sweep] Starting batch of 20 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/hostip.c
+[sweep] /home/t/curl/lib/hostip.c -> skip
+[sweep] processing /home/t/curl/lib/hostip4.c
+[sweep] /home/t/curl/lib/hostip4.c -> skip
+[sweep] processing /home/t/curl/lib/hostip6.c
+[sweep] /home/t/curl/lib/hostip6.c -> skip
+[sweep] processing /home/t/curl/lib/hsts.c
+[sweep] /home/t/curl/lib/hsts.c -> skip
+[sweep] processing /home/t/curl/lib/http.c
+[sweep] /home/t/curl/lib/http.c -> skip
+[sweep] processing /home/t/curl/lib/http1.c
+[sweep] /home/t/curl/lib/http1.c -> skip
+[sweep] processing /home/t/curl/lib/http2.c
+[sweep] /home/t/curl/lib/http2.c -> skip
+[sweep] processing /home/t/curl/lib/http_aws_sigv4.c
+[sweep] /home/t/curl/lib/http_aws_sigv4.c -> skip
+[sweep] processing /home/t/curl/lib/http_chunks.c
+[sweep] /home/t/curl/lib/http_chunks.c -> findings found, handing to tester
+[sweep] /home/t/curl/lib/http_chunks.c -> done (confirmed=0)
+[sweep] processing /home/t/curl/lib/http_digest.c
+[sweep] /home/t/curl/lib/http_digest.c -> skip
+[sweep] processing /home/t/curl/lib/http_negotiate.c
+[sweep] /home/t/curl/lib/http_negotiate.c -> skip
+[sweep] processing /home/t/curl/lib/http_ntlm.c
+[sweep] /home/t/curl/lib/http_ntlm.c -> skip
+[sweep] processing /home/t/curl/lib/http_proxy.c
+[sweep] /home/t/curl/lib/http_proxy.c -> skip
+[sweep] processing /home/t/curl/lib/httpsrr.c
+[sweep] /home/t/curl/lib/httpsrr.c -> skip
+[sweep] processing /home/t/curl/lib/idn.c
+[sweep] /home/t/curl/lib/idn.c -> skip
+[sweep] processing /home/t/curl/lib/if2ip.c
+[sweep] /home/t/curl/lib/if2ip.c -> skip
+[sweep] processing /home/t/curl/lib/imap.c
+[sweep] /home/t/curl/lib/imap.c -> skip
+[sweep] processing /home/t/curl/lib/ldap.c
+[sweep] /home/t/curl/lib/ldap.c -> skip
+[sweep] processing /home/t/curl/lib/llist.c
+[sweep] /home/t/curl/lib/llist.c -> skip
+[sweep] processing /home/t/curl/lib/macos.c
+[sweep] /home/t/curl/lib/macos.c -> skip
+
+[sweep] Done. Processed=20  Total done=80  Confirmed=1  Remaining=94
+[sweep] Starting batch of 20 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/md4.c
+[sweep] /home/t/curl/lib/md4.c -> skip
+[sweep] processing /home/t/curl/lib/md5.c
+[sweep] /home/t/curl/lib/md5.c -> skip
+[sweep] processing /home/t/curl/lib/memdebug.c
+[sweep] /home/t/curl/lib/memdebug.c -> skip
+[sweep] processing /home/t/curl/lib/mime.c
+[sweep] /home/t/curl/lib/mime.c -> skip
+[sweep] processing /home/t/curl/lib/mprintf.c
+[sweep] /home/t/curl/lib/mprintf.c -> skip
+[sweep] processing /home/t/curl/lib/mqtt.c
+[sweep] /home/t/curl/lib/mqtt.c -> skip
+[sweep] processing /home/t/curl/lib/multi.c
+[sweep] /home/t/curl/lib/multi.c -> skip
+[sweep] processing /home/t/curl/lib/multi_ev.c
+[sweep] /home/t/curl/lib/multi_ev.c -> skip
+[sweep] processing /home/t/curl/lib/multi_ntfy.c
+[sweep] /home/t/curl/lib/multi_ntfy.c -> skip
+[sweep] processing /home/t/curl/lib/netrc.c
+[sweep] /home/t/curl/lib/netrc.c -> skip
+[sweep] processing /home/t/curl/lib/noproxy.c
+[sweep] /home/t/curl/lib/noproxy.c -> skip
+[sweep] processing /home/t/curl/lib/openldap.c
+[sweep] /home/t/curl/lib/openldap.c -> skip
+[sweep] processing /home/t/curl/lib/parsedate.c
+[sweep] /home/t/curl/lib/parsedate.c -> skip
+[sweep] processing /home/t/curl/lib/peer.c
+[sweep] /home/t/curl/lib/peer.c -> skip
+[sweep] processing /home/t/curl/lib/pingpong.c
+[sweep] /home/t/curl/lib/pingpong.c -> skip
+[sweep] processing /home/t/curl/lib/pop3.c
+[sweep] /home/t/curl/lib/pop3.c -> skip
+[sweep] processing /home/t/curl/lib/progress.c
+[sweep] /home/t/curl/lib/progress.c -> skip
+[sweep] processing /home/t/curl/lib/protocol.c
+[sweep] /home/t/curl/lib/protocol.c -> skip
+[sweep] processing /home/t/curl/lib/psl.c
+[sweep] /home/t/curl/lib/psl.c -> skip
+[sweep] processing /home/t/curl/lib/rand.c
+[sweep] /home/t/curl/lib/rand.c -> skip
+
+[sweep] Done. Processed=20  Total done=100  Confirmed=1  Remaining=74
+[sweep] Starting batch of 20 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/ratelimit.c
+[sweep] /home/t/curl/lib/ratelimit.c -> skip
+[sweep] processing /home/t/curl/lib/request.c
+[sweep] /home/t/curl/lib/request.c -> skip
+[sweep] processing /home/t/curl/lib/rtsp.c
+[sweep] /home/t/curl/lib/rtsp.c -> skip
+[sweep] processing /home/t/curl/lib/select.c
+[sweep] /home/t/curl/lib/select.c -> skip
+[sweep] processing /home/t/curl/lib/sendf.c
+[sweep] /home/t/curl/lib/sendf.c -> skip
+[sweep] processing /home/t/curl/lib/setopt.c
+[sweep] /home/t/curl/lib/setopt.c -> skip
+[sweep] processing /home/t/curl/lib/sha256.c
+[sweep] /home/t/curl/lib/sha256.c -> skip
+[sweep] processing /home/t/curl/lib/slist.c
+[sweep] /home/t/curl/lib/slist.c -> skip
+[sweep] processing /home/t/curl/lib/smb.c
+[sweep] /home/t/curl/lib/smb.c -> skip
+[sweep] processing /home/t/curl/lib/smtp.c
+[sweep] /home/t/curl/lib/smtp.c -> skip
+[sweep] processing /home/t/curl/lib/socketpair.c
+[sweep] /home/t/curl/lib/socketpair.c -> skip
+[sweep] processing /home/t/curl/lib/socks.c
+[sweep] /home/t/curl/lib/socks.c -> skip
+[sweep] processing /home/t/curl/lib/socks_gssapi.c
+[sweep] /home/t/curl/lib/socks_gssapi.c -> skip
+[sweep] processing /home/t/curl/lib/socks_sspi.c
+[sweep] /home/t/curl/lib/socks_sspi.c -> skip
+[sweep] processing /home/t/curl/lib/splay.c
+[sweep] /home/t/curl/lib/splay.c -> skip
+[sweep] processing /home/t/curl/lib/strcase.c
+[sweep] /home/t/curl/lib/strcase.c -> skip
+[sweep] processing /home/t/curl/lib/strequal.c
+[sweep] /home/t/curl/lib/strequal.c -> skip
+[sweep] processing /home/t/curl/lib/strerror.c
+[sweep] /home/t/curl/lib/strerror.c -> skip
+[sweep] processing /home/t/curl/lib/system_win32.c
+[sweep] /home/t/curl/lib/system_win32.c -> skip
+[sweep] processing /home/t/curl/lib/telnet.c
+[sweep] /home/t/curl/lib/telnet.c -> skip
+
+[sweep] Done. Processed=20  Total done=120  Confirmed=1  Remaining=54
+[sweep] Starting batch of 15 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/tftp.c
+[sweep] /home/t/curl/lib/tftp.c -> skip
+[sweep] processing /home/t/curl/lib/thrdpool.c
+[sweep] /home/t/curl/lib/thrdpool.c -> skip
+[sweep] processing /home/t/curl/lib/thrdqueue.c
+[sweep] /home/t/curl/lib/thrdqueue.c -> skip
+[sweep] processing /home/t/curl/lib/transfer.c
+[sweep] /home/t/curl/lib/transfer.c -> skip
+[sweep] processing /home/t/curl/lib/uint-bset.c
+[sweep] /home/t/curl/lib/uint-bset.c -> skip
+[sweep] processing /home/t/curl/lib/uint-hash.c
+[sweep] /home/t/curl/lib/uint-hash.c -> skip
+[sweep] processing /home/t/curl/lib/uint-spbset.c
+[sweep] /home/t/curl/lib/uint-spbset.c -> skip
+[sweep] processing /home/t/curl/lib/uint-table.c
+[sweep] /home/t/curl/lib/uint-table.c -> skip
+[sweep] processing /home/t/curl/lib/url.c
+[sweep] /home/t/curl/lib/url.c -> skip
+[sweep] processing /home/t/curl/lib/urlapi.c
+[sweep] Starting batch of 20 file(s), single-threaded
+[sweep] processing /home/t/curl/lib/urlapi.c
+[sweep] /home/t/curl/lib/urlapi.c -> findings found, handing to tester
+[sweep] /home/t/curl/lib/urlapi.c -> done (confirmed=0)
+[sweep] processing /home/t/curl/lib/version.c
+[sweep] /home/t/curl/lib/version.c -> skip
+[sweep] processing /home/t/curl/lib/ws.c
+[sweep] /home/t/curl/lib/ws.c -> skip
+[sweep] processing /home/t/curl/src/config2setopts.c
+[sweep] /home/t/curl/src/config2setopts.c -> skip
+[sweep] processing /home/t/curl/src/curlinfo.c
+[sweep] /home/t/curl/src/curlinfo.c -> skip
+[sweep] processing /home/t/curl/src/slist_wc.c
+[sweep] /home/t/curl/src/slist_wc.c -> skip
+[sweep] processing /home/t/curl/src/terminal.c
+[sweep] /home/t/curl/src/terminal.c -> skip
+[sweep] processing /home/t/curl/src/tool_cb_dbg.c
+[sweep] /home/t/curl/src/tool_cb_dbg.c -> skip
+[sweep] processing /home/t/curl/src/tool_cb_hdr.c
+[sweep] /home/t/curl/src/tool_cb_hdr.c -> skip
+[sweep] processing /home/t/curl/src/tool_cb_prg.c
+[sweep] /home/t/curl/src/tool_cb_prg.c -> skip
+[sweep] processing /home/t/curl/src/tool_cb_rea.c
+[sweep] /home/t/curl/src/tool_cb_rea.c -> skip
+[sweep] processing /home/t/curl/src/tool_cb_see.c
+[sweep] /home/t/curl/src/tool_cb_see.c -> skip
+[sweep] processing /home/t/curl/src/tool_cb_soc.c
+[sweep] /home/t/curl/src/tool_cb_soc.c -> skip
+[sweep] processing /home/t/curl/src/tool_cb_wrt.c
+[sweep] /home/t/curl/src/tool_cb_wrt.c -> skip
+[sweep] processing /home/t/curl/src/tool_cfgable.c
+[sweep] /home/t/curl/src/tool_cfgable.c -> skip
+[sweep] processing /home/t/curl/src/tool_dirhie.c
+[sweep] /home/t/curl/src/tool_dirhie.c -> skip
+[sweep] processing /home/t/curl/src/tool_doswin.c
+[sweep] /home/t/curl/src/tool_doswin.c -> skip
+[sweep] processing /home/t/curl/src/tool_easysrc.c
+[sweep] /home/t/curl/src/tool_easysrc.c -> skip
+[sweep] processing /home/t/curl/src/tool_filetime.c
+[sweep] /home/t/curl/src/tool_filetime.c -> skip
+[sweep] processing /home/t/curl/src/tool_findfile.c
+[sweep] /home/t/curl/src/tool_findfile.c -> skip
+
+[sweep] Done. Processed=20  Total done=150  Confirmed=1  Remaining=25
+[sweep] Starting batch of 15 file(s), single-threaded
+[sweep] processing /home/t/curl/src/tool_formparse.c
+[sweep] /home/t/curl/src/tool_formparse.c -> skip
+[sweep] processing /home/t/curl/src/tool_getparam.c
+[sweep] /home/t/curl/src/tool_getparam.c -> skip
+[sweep] processing /home/t/curl/src/tool_getpass.c
+[sweep] /home/t/curl/src/tool_getpass.c -> skip
+[sweep] processing /home/t/curl/src/tool_help.c
+[sweep] /home/t/curl/src/tool_help.c -> skip
+[sweep] processing /home/t/curl/src/tool_helpers.c
+[sweep] /home/t/curl/src/tool_helpers.c -> skip
+[sweep] processing /home/t/curl/src/tool_ipfs.c
+[sweep] /home/t/curl/src/tool_ipfs.c -> skip
+[sweep] processing /home/t/curl/src/tool_libinfo.c
+[sweep] /home/t/curl/src/tool_libinfo.c -> skip
+[sweep] processing /home/t/curl/src/tool_listhelp.c
+[sweep] /home/t/curl/src/tool_listhelp.c -> skip
+[sweep] processing /home/t/curl/src/tool_main.c
+[sweep] /home/t/curl/src/tool_main.c -> skip
+[sweep] processing /home/t/curl/src/tool_msgs.c
+[sweep] /home/t/curl/src/tool_msgs.c -> skip
+[sweep] processing /home/t/curl/src/tool_operate.c
+[sweep] /home/t/curl/src/tool_operate.c -> skip
+[sweep] processing /home/t/curl/src/tool_operhlp.c
+[sweep] /home/t/curl/src/tool_operhlp.c -> skip
+[sweep] processing /home/t/curl/src/tool_paramhlp.c
+[sweep] /home/t/curl/src/tool_paramhlp.c -> skip
+[sweep] processing /home/t/curl/src/tool_parsecfg.c
+[sweep] /home/t/curl/src/tool_parsecfg.c -> skip
+[sweep] processing /home/t/curl/src/tool_progress.c
+[sweep] /home/t/curl/src/tool_progress.c -> skip
+
+[sweep] Done. Processed=15  Total done=165  Confirmed=1  Remaining=10
+[sweep] Starting batch of 20 file(s), single-threaded
+[sweep] processing /home/t/curl/src/tool_setopt.c
+[sweep] /home/t/curl/src/tool_setopt.c -> skip
+[sweep] processing /home/t/curl/src/tool_ssls.c
+[sweep] /home/t/curl/src/tool_ssls.c -> skip
+[sweep] processing /home/t/curl/src/tool_stderr.c
+[sweep] /home/t/curl/src/tool_stderr.c -> skip
+[sweep] processing /home/t/curl/src/tool_urlglob.c
+[sweep] /home/t/curl/src/tool_urlglob.c -> skip
+[sweep] processing /home/t/curl/src/tool_util.c
+[sweep] /home/t/curl/src/tool_util.c -> skip
+[sweep] processing /home/t/curl/src/tool_vms.c
+[sweep] /home/t/curl/src/tool_vms.c -> skip
+[sweep] processing /home/t/curl/src/tool_writeout.c
+[sweep] /home/t/curl/src/tool_writeout.c -> skip
+[sweep] processing /home/t/curl/src/tool_writeout_json.c
+[sweep] /home/t/curl/src/tool_writeout_json.c -> skip
+[sweep] processing /home/t/curl/src/tool_xattr.c
+[sweep] /home/t/curl/src/tool_xattr.c -> skip
+[sweep] processing /home/t/curl/src/var.c
+[sweep] /home/t/curl/src/var.c -> skip
+[sweep] Queue empty.
+
+[sweep] Done. Processed=10  Total done=175  Confirmed=1  Remaining=0
